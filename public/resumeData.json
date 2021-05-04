@@ -84,66 +84,62 @@
       {
         "name": "HTML",
         "image": "html5.svg",
-        "url": ""
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"
       },
       {
         "name": "CSS",
         "image": "css.svg",
-        "url": ""
+        "url": "https://www.w3schools.com/css/"
       },
       {
         "name": "JavaScript",
         "image": "js.svg",
-        "url": ""
-      },
-      {
-        "name": "Java",
-        "image": "tailwindcss.svg",
-        "url": ""
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       },
       {
         "name": "R",
         "image": "r.svg",
-        "url": ""
+        "url": "https://www.r-project.org/"
       },
       {
         "name": "R Shiny",
         "image": "rshiny.png",
-        "url": ""
+        "url": "https://shiny.rstudio.com/"
       },
       {
         "name": "Leaflet",
         "image": "leafletjs.svg",
-        "url": ""
+        "url": "https://leafletjs.com/"
       },
       {
         "name": "React",
         "image": "reactjs.svg",
-        "url": ""
+        "url": "https://reactjs.org/"
       },
       {
         "name": "Bootstrap",
         "image": "bootstrap.svg",
-        "url": ""
+        "url": "https://getbootstrap.com/"
       },
       {
         "name": "Tailwind",
         "image": "tailwindcss.svg",
-        "url": ""
+        "url": "https://tailwindcss.com/"
       }, 
       {
         "name": "Next Js",
-        "image": "nextjs.svg"
+        "image": "nextjs.svg",
+        "url": "https://nextjs.org/"
       },
       {
         "name": "Node Js",
         "image": "nodejs.svg",
-        "url": ""
+        "url": "https://nodejs.org/en/"
       },
       {
         "name": "Express Js",
         "image": "expressjs.svg",
-        "url": ""
+        "url": "https://expressjs.com/"
       }
     ]
   }

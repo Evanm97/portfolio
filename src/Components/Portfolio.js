@@ -37,8 +37,8 @@ const Portfolio = ({ data }) => {
   }
 
   return (
-    <section id="portfolio">
-      <div className="pt-20">
+    <section id="portfolio" className="bg-gray-200">
+      <div className="pt-20 ">
         <h1>Projects</h1>
         <div
           className="px-5 my-20 sm:grid md:grid-cols-2 xl:grid-cols-3 3xl:flex flex-wrap justify-center"
@@ -51,7 +51,7 @@ const Portfolio = ({ data }) => {
 
       <div className="bg-gray-900">
         <div className="pt-10">
-          <h1>Technologies Used </h1>
+          <h1>Project Technologies</h1>
         </div>
         <div className="p-5 pb-8 my-10 grid grid-cols-4 justify-center">
           {tech}
