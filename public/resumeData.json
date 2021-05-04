@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Evan Murray",
+    "occupation": "Software Developer Graduate",
+    "image": "wave.gif",
+    "bio": "Computer Science and Information Technology graduate from the National University of Ireland, Galway with 8 months working experience in software development Proficient in various development tools, procedures and languages. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team",
+    "contactmessage": "Contact Me",
+    "email": "evanmurray2012@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "2 Heywood Drive, Ardgeeha",
+      "city": "Clonmel, Co. Tipperary",
+      "state": "Ireland",
+      "zip": "E91 A093"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1J3LueS4bOfaqwdCcHVpx9w9OIat0Inzs/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/evan-murray-900a6a13b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/evanmurray15/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Evanm97",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "National University of Ireland, Galway",
+        "degree": "Bachelor's Degree, Computer Science & Information Technology",
+        "graduated": "Aug 2016 - June 2020",
+        "description": "Graduated with 2.1"
+      },
+      {
+        "school": "CBS Highschool, Clonmel",
+        "degree": "Leaving Cert Honours",
+        "graduated": "Aug 2010 - June 2015"
+      }
+    ],
+    "work": [
+      {
+        "company": "LM Ericsson Ltd",
+        "title": "Software Engineer Co-op",
+        "years": "Jan 2019 - Aug 2019",
+        "description": "Worked as part of a Java software engineering team in an agile development environment, mostly utilizing Scrum methodologies. Responsibilities included coding new functionality, creating documentation, bug fixing and conducting manual/automated testing strategies."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Hulu Clone",
+        "category": "",
+        "image": "hulu.png",
+        "source": "https://github.com/Evanm97/hulu-clone",
+        "demo": "https://hulu-clone-brown.vercel.app/"
+      },
+      {
+        "title": "Pandemic Modelling",
+        "category": "",
+        "image": "pandemic.png",
+        "source": "https://github.com/Evanm97/pandemic-modelling",
+        "demo": "https://evan-murray.shinyapps.io/fyp_pandemic-modeling/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "netflix.png",
+        "source": "https://github.com/Evanm97/netflix-clone",
+        "demo": "https://evanm97.github.io/netflix-clone/"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "image": "html5.svg",
+        "url": ""
+      },
+      {
+        "name": "CSS",
+        "image": "css.svg",
+        "url": ""
+      },
+      {
+        "name": "JavaScript",
+        "image": "js.svg",
+        "url": ""
+      },
+      {
+        "name": "Java",
+        "image": "tailwindcss.svg",
+        "url": ""
+      },
+      {
+        "name": "R",
+        "image": "r.svg",
+        "url": ""
+      },
+      {
+        "name": "R Shiny",
+        "image": "rshiny.png",
+        "url": ""
+      },
+      {
+        "name": "Leaflet",
+        "image": "leafletjs.svg",
+        "url": ""
+      },
+      {
+        "name": "React",
+        "image": "reactjs.svg",
+        "url": ""
+      },
+      {
+        "name": "Bootstrap",
+        "image": "bootstrap.svg",
+        "url": ""
+      },
+      {
+        "name": "Tailwind",
+        "image": "tailwindcss.svg",
+        "url": ""
+      }, 
+      {
+        "name": "Next Js",
+        "image": "nextjs.svg"
+      },
+      {
+        "name": "Node Js",
+        "image": "nodejs.svg",
+        "url": ""
+      },
+      {
+        "name": "Express Js",
+        "image": "expressjs.svg",
+        "url": ""
+      }
+    ]
+  }
+}
