@@ -41,7 +41,7 @@ const Portfolio = ({ data }) => {
       <div className="pt-20 ">
         <h1>Projects</h1>
         <div
-          className="px-5 my-20 sm:grid md:grid-cols-2 xl:grid-cols-3 3xl:flex flex-wrap justify-center"
+          className="p-5 my-20 mx-5 sm:grid md:grid-cols-2 xl:grid-cols-3 3xl:flex flex-wrap justify-center"
         >
           {/* Images should be (1915 x 965) */}
           {projects}

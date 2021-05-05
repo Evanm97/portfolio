@@ -78,6 +78,20 @@
         "image": "netflix.png",
         "source": "https://github.com/Evanm97/netflix-clone",
         "demo": "https://evanm97.github.io/netflix-clone/"
+      },
+      {
+        "title": "Infinite Scroll",
+        "category": "",
+        "image": "infinite.png",
+        "source": "https://github.com/Evanm97/infinity-scroll",
+        "demo": "https://evanm97.github.io/infinity-scroll/"
+      },
+      {
+        "title": "Music Player",
+        "category": "",
+        "image": "music.png",
+        "source": "https://github.com/Evanm97/music-player",
+        "demo": "https://evanm97.github.io/music-player/"
       }
     ],
     "skills": [
@@ -93,7 +107,7 @@
       },
       {
         "name": "JavaScript",
-        "image": "js.svg",
+        "image": "js.png",
         "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       },
       {
