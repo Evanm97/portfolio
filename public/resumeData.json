@@ -49,6 +49,12 @@
     ],
     "work": [
       {
+        "company": "Pinewood Healthcare",
+        "title": "Application Support Engineer",
+        "years": "Nov 2021 - Present",
+        "description": "Work as Application Support Engineer within the companies IT Department providing IT admin and support. Responsibilites include AD admin, TMS management, SAP MM, remote and on-site support and documentation."
+      },
+      {
         "company": "LM Ericsson Ltd",
         "title": "Software Engineer Co-op",
         "years": "Jan 2019 - Aug 2019",
@@ -74,8 +80,8 @@
       },
       {
         "title": "Netflix Clone",
-        "category": "",
-        "image": "netflix.png",
+        "category": "React",
+        "image": "netflix.webp",
         "source": "https://github.com/Evanm97/netflix-clone",
         "demo": "https://evanm97.github.io/netflix-clone/"
       },
@@ -92,6 +98,13 @@
         "image": "music.png",
         "source": "https://github.com/Evanm97/music-player",
         "demo": "https://evanm97.github.io/music-player/"
+      },
+      {
+        "title": "FootballWeb",
+        "category": "",
+        "image": "footballweb.png",
+        "source": "https://github.com/Evanm97/footballweb",
+        "demo": "https://footballweb.vercel.app/"
       }
     ],
     "skills": [
