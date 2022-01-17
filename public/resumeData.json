@@ -80,7 +80,7 @@
       },
       {
         "title": "Netflix Clone",
-        "category": "React",
+        "category": "",
         "image": "netflix.webp",
         "source": "https://github.com/Evanm97/netflix-clone",
         "demo": "https://evanm97.github.io/netflix-clone/"
